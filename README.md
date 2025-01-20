@@ -80,5 +80,7 @@ Use this tool responsibly and in compliance with Discord's terms of service.
 
 ## GitHub: https://github.com/anonmiti
 
+## Discord: https://discord.gg/F7HYPJxgd2
+
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
