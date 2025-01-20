@@ -3,6 +3,11 @@
 **A Python-based tool designed to validate and manage Discord tokens.**  
 This tool allows you to check the validity of tokens, log in with valid tokens, and manage them efficiently. The tool provides a **graphical user interface (GUI)** for ease of use.
 
+
+![image](https://github.com/user-attachments/assets/66de23ac-ce41-476a-abb7-444caa3a97a4)
+
+
+
 ---
 
 ## ✨ Features
