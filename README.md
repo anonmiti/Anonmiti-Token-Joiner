@@ -31,7 +31,9 @@ Run the application:
 3. python main.py
 
 
-Usage
+
+4. Usage
+
 Enter Tokens: Paste your Discord tokens in the input box (one token per line).
 
 Set Session Duration: Specify the duration (in seconds) for each token session.
