@@ -1,42 +1,42 @@
-🚀 Anonmiti Token Joiner
-A Python-based tool designed to validate and manage Discord tokens.
-This tool allows you to check the validity of tokens, log in with valid tokens, and manage them efficiently. The tool provides a graphical user interface (GUI) for ease of use.
+# 🚀 Anonmiti Token Joiner
 
-✨ Features
-🔍 Token Validation: Check if Discord tokens are valid, invalid, or unverified.
+**A Python-based tool designed to validate and manage Discord tokens.**  
+This tool allows you to check the validity of tokens, log in with valid tokens, and manage them efficiently. The tool provides a **graphical user interface (GUI)** for ease of use.
 
-🔑 Token Login: Automatically log in to Discord using valid tokens.
+---
 
-📂 Token Management: Load tokens from a file, export tokens to a file, and manage them in the GUI.
+## ✨ Features
 
-🧵 Multi-threading: Process multiple tokens simultaneously (configurable).
+- **🔍 Token Validation**: Check if Discord tokens are valid, invalid, or unverified.
+- **🔑 Token Login**: Automatically log in to Discord using valid tokens.
+- **📂 Token Management**: Load tokens from a file, export tokens to a file, and manage them in the GUI.
+- **🧵 Multi-threading**: Process multiple tokens simultaneously (configurable).
+- **⏳ Session Management**: Set a custom session duration for each token login.
+- **📝 Logging**: Detailed logs for tracking the process.
 
-⏳ Session Management: Set a custom session duration for each token login.
+---
 
-📝 Logging: Detailed logs for tracking the process.
+## 📋 Requirements
 
-📋 Requirements
-Python 3.x
+- **Python 3.x**
+- Required Python packages (listed in `requirements.txt`)
 
-Required Python packages (listed in requirements.txt)
+---
 
-🛠️ Installation
-Clone the repository:
+## 🛠️ Installation
 
-bash
-Copy
-git clone https://github.com/anonmiti/Anonmiti-Token-Joiner.git
-cd Anonmiti-Token-Joiner
-Install the required packages:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/anonmiti/Anonmiti-Token-Joiner.git
+   cd Anonmiti-Token-Joiner
+## 2.Install the required packages:
 
-bash
-Copy
 pip install -r requirements.txt
-Run the application:
 
-bash
-Copy
+## 3.Run the application:
+
 python main.py
+
 🎮 Usage
 Enter Tokens: Paste your Discord tokens in the input box (one token per line).
 
@@ -76,18 +76,9 @@ Ensure that you have a stable internet connection while using this tool.
 Use this tool responsibly and in compliance with Discord's terms of service.
 
 👤 Author
-Anonmiti
+## Anonmiti
 
-GitHub: https://github.com/anonmiti
+## GitHub: https://github.com/anonmiti
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Why This Works:
-Emojis: Emojis make the headings visually appealing and easier to scan.
-
-Bold Text: Key points are highlighted for better readability.
-
-Spacing and Structure: Clear sections with proper spacing improve the flow of the document.
-
-Code Blocks: Installation and usage steps are clearly formatted for easy copy-pasting.
